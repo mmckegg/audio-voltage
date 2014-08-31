@@ -1,0 +1,35 @@
+{
+  "name": "audio-voltage",
+  "version": "0.0.0",
+  "description": "Automatable DC voltage for modulation of Web Audio API AudioParams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "beefy example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/audio-voltage.git"
+  },
+  "keywords": [
+    "voltage",
+    "dc",
+    "vc",
+    "modulate",
+    "waapi",
+    "audio",
+    "browser",
+    "gain",
+    "AudioParam",
+    "offset"
+  ],
+  "author": "Matt McKegg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckegg/audio-voltage/issues"
+  },
+  "homepage": "https://github.com/mmckegg/audio-voltage",
+  "devDependencies": {
+    "beefy": "^2.1.1"
+  }
+}
