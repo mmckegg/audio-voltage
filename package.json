@@ -1,6 +1,6 @@
 {
   "name": "audio-voltage",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Automatable DC voltage for modulation of Web Audio API AudioParams.",
   "main": "index.js",
   "scripts": {
